@@ -74,12 +74,7 @@ fx-microstructure-alpha/
 ## 📌 Status
 🔄 **In Progress** – Currently setting up data pipeline and initial exploratory analysis for EUR/USD.  
 
----
 
-## 🤝 Contributions
-This is a self-contained research project. Suggestions, pull requests, and collaborations are welcome.  
-
----
 
 ## 📧 Contact
 Author: Amol Wani
